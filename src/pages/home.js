@@ -26,6 +26,15 @@ function Home() {
           <div>
             <h1 className="ms-0">test</h1>
           </div>
+          <div>
+            <h1 className="ms-0">test</h1>
+          </div>
+          <div>
+            <h1 className="ms-0">test</h1>
+          </div>
+          <div>
+            <h1 className="ms-0">test</h1>
+          </div>
         </div>
       </div>
       <Footer />
