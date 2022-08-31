@@ -6,7 +6,7 @@ import Navbar2 from "../components/Navbar2";
 function Contact() {
   return (
     <>
-      <Navbar2 />
+      <Navbar />
       <div className="mt-5">
         <h1>ข้อมูลติดต่อฉัน</h1>
       </div>
